@@ -25,7 +25,7 @@ __Repository create by [SNOOPY X](@Always_Sed_af)__
 ### String Session 🖇
 `
 Click the button next to create your strings`
-[![repl](https://telegra.ph/file/6ab80f3170353c4a1f837.jpg)](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)
+[![repl](https://telegra.ph/file/6ab80f3170353c4a1f837.jpg)](https://replit.com/@provarun2021/SNOOPY-THE-USERBOT)
     
 ------------------------------------------------
 ## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
