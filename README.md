@@ -20,12 +20,12 @@ __Repository create by [SNOOPY X](@Always_Sed_af)__
 
 ### Deploy to Heroku
 
-[![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOT)
+[![Deploy](https://telegra.ph/file/cfe29d4a58ad4b838c71a.jpg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOTS)
 
 ### String Session 🖇
 `
 Click the button next to create your strings`
-[![repl](https://telegra.ph/file/62955e5fffbd9f245f070.jpg)](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)
+[![repl](https://telegra.ph/file/6ab80f3170353c4a1f837.jpg)](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)
     
 ------------------------------------------------
 ## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
