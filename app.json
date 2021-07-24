@@ -1,6 +1,6 @@
 {
-  "name": "MahaDev UserBot",
-  "description": "[MahaDev UserBot] A modular Telegram userbot running on Python 3.9.2",
+  "name": "SNOOPY USERBOT",
+  "description": "[SNOOPY USERBOT] A modular Telegram userbot running on Python 3.9.2",
   "keywords": [
     "telegram",
     "userbot",
@@ -8,8 +8,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT",
-  "website": "https://t.me/MAHADEV_X_USERBOT",
+  "repository": "https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOTS",
+  "website": "https://t.me/SnoopyUserbotSupport",
   "stack": "container",
   "env": {
     "ALIVE_NAME": {
