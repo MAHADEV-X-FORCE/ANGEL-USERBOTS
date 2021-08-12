@@ -21,7 +21,7 @@ __And  [AceDuke](@aceduke_xD)__
 
 ### Deploy to Heroku
 
-[![Deploy](https://telegra.ph/file/cfe29d4a58ad4b838c71a.jpg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-X-FORCE/ANGEL-USERBOTS)
+[![Deploy](https://telegra.ph/file/db66db4ab117958e15584.jpg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-X-FORCE/ANGEL-USERBOTS)
 
 ### String Session 🖇
 `
