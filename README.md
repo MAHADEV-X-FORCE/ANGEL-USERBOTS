@@ -1,4 +1,4 @@
-# SNOOPY USERBOT
+# ANGEL USERBOT
 
 A POWERFUL AND SUPER USERBOT.......
 <p align="center">
@@ -6,7 +6,7 @@ A POWERFUL AND SUPER USERBOT.......
     
 
 
-![SNOOPY THE USERBOT](https://telegra.ph/file/acab897abed18712e12e5.jpg)
+![ANGEL THE USERBOT](https://telegra.ph/file/acab897abed18712e12e5.jpg)
 
 ### Group Support 🇮🇩
 `
@@ -20,7 +20,7 @@ __Repository create by [SNOOPY X](@Always_Sed_af)__
 
 ### Deploy to Heroku
 
-[![Deploy](https://telegra.ph/file/cfe29d4a58ad4b838c71a.jpg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOTS)
+[![Deploy](https://telegra.ph/file/cfe29d4a58ad4b838c71a.jpg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-X-FORCE/ANGEL-USERBOTS)
 
 ### String Session 🖇
 `
