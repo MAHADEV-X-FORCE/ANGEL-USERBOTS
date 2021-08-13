@@ -142,7 +142,6 @@ async def amireallyalive(alive):
         f"**✦ 𒆜ʍʏ օառɛʀ 𒆜:{DEFAULTUSER}** \n" 
         f"**✦ 𝐑𝐄𝐏𝐎: [ANGEL USERBOT](https://github.com/MAHADEV-X-FORCE/ANGEL-USERBOTS)** \n"
         f"**✦ [ᑕᕼᗩᑎᑎᗴᒪ](https://t.me/angel_ub): [ᘜ尺ㄖㄩ卩](https://t.me/angel_ub_support)**") 
-        "`====================================`\n"
     )
     if ALIVE_LOGO:
         try:
