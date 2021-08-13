@@ -26,7 +26,7 @@ __And  [AceDuke](@aceduke_xD)__
 ### String Session 🖇
 `
 Click the button next to create your strings`
-[![repl](https://telegra.ph/file/6ab80f3170353c4a1f837.jpg)](https://replit.com/@provarun2021/SNOOPY-THE-USERBOT)
+[![repl](https://telegra.ph/file/fb84b6be1c33cc375e907.jpg)](https://replit.com/@provarun2021/SNOOPY-THE-USERBOT)
     
 ------------------------------------------------
 ## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
