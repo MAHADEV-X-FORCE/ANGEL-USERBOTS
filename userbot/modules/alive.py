@@ -138,7 +138,11 @@ async def amireallyalive(alive):
         f"🐍 `Python         :` v{python_version()}\n"
         f"⚙️ `Telethon       :` v{version.__version__}\n"
         f"👤 `User           :` {DEFAULTUSER}\n"
-        тєℓєтнση νєяѕιση:.            {version.__version__}** \n" f"**✦ Python version🐍: {python_version()}** \n" f"**✦ 𒆜ʍʏ օառɛʀ 𒆜:{DEFAULTUSER}** \n" f"**✦ 𝐑𝐄𝐏𝐎: [SNOOPY USERBOT](https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOTS)** \n" f"**✦ [ᑕᕼᗩᑎᑎᗴᒪ](https://t.me/CheemsUserbot): [ᘜ尺ㄖㄩ卩](https://t.me/SnoopyXBotChannel)**") 
+        тєℓєтнση νєяѕιση:.            {version.__version__}** \n" 
+        f"**✦ Python version🐍: {python_version()}** \n" 
+        f"**✦ 𒆜ʍʏ օառɛʀ 𒆜:{DEFAULTUSER}** \n" 
+        f"**✦ 𝐑𝐄𝐏𝐎: [SNOOPY USERBOT](https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOTS)** \n"
+        f"**✦ [ᑕᕼᗩᑎᑎᗴᒪ](https://t.me/angel_ub): [ᘜ尺ㄖㄩ卩](https://t.me/angel_ub_support)**") 
         "`====================================`\n"
     )
     if ALIVE_LOGO:
